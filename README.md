@@ -1,4 +1,4 @@
-### Hi there 👋
+# Xin chào các bạn đến với Repo của mình !👋
 
 <!--
 **HUONGHUA/HUONGHUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
